@@ -1,7 +1,6 @@
 # Beta adblock list for podcasts
 # Updated: 2022-02-10
 # Start Date: 2022-02-19
-podtrac.com
-chtbl.com
-megaphone.fm
-traffic.megaphone.fm
+127.0.0.1	analytics.podtrac.com
+127.0.0.1	chtbl.com
+
