@@ -1,0 +1,7 @@
+! Beta adblock list for podcasts
+! updated: 2022-02-10
+!
+|| podtrac.com
+|| chtbl.com
+|| megaphone.fm
+|| traffic.megaphone.fm
